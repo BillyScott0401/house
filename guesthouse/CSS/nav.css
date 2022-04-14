@@ -1,0 +1,120 @@
+body{
+    background: color #eae7dc;
+    background:url(C:\Users\zxc37\OneDrive\桌面\民宿專案\正式照片\rs930_135120665-low_0.jpg) center no-repeat fixed;
+    background-size:cover;
+
+}
+/*導覽頁-------------------------------------------------------------------------------------*/
+
+nav{
+    height:10S0px;
+}
+
+.container-fluid{
+    background: color #000000;
+}
+.navbar-brand{
+    font-family:Noto Sans TC Black;
+    font-size:50px;
+    color: #8e8d8a;
+    padding-right:200px;
+}
+.navbar-brand:hover{
+    font-family:Noto Sans TC Black;
+    font-size:50px;
+    color:rgb(115,184,57);
+}
+.nav-link{
+    font-family:Noto Sans TC Light;
+    font-size:25px;
+    color:#8e8d8a;
+    padding-right:15px;
+}
+.nav-link:hover{
+    font-family:Noto Sans TC Light;
+    font-size:25px;
+    color:rgb(115,184,57);
+    padding-right:15px;
+}
+.carousel-item{
+    padding-bottom:20px;
+    height:500px;
+    border-left:50px;
+    ;
+}
+.dropdown-item{
+    font-family:Noto Sans TC Light;
+    font-size:20px;
+    color:rgb(0, 0, 0);
+    padding-right:15px;
+}
+.dropdown-item:hover{
+    font-family:Noto Sans TC Light;
+    font-size:20px;
+    color:rgb(115,184,57);
+    padding-right:15px;
+}
+/*大字報-----------------------------------------------------------------------------------------*/
+#posterzonepic{
+    background:url(guesthouse\ project\background-9715707.jpg) center no-repeat fixed;
+    background-size:cover;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+/*主體-----------------------------------------------------------------------------------------*/
+.picture box{
+    text-align:center;
+}
+.img{
+    width:100%;
+    padding:10px;
+}
+/*第一段*/
+.descriptionbox{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-gap:10px;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+#mainpic{
+    display: block;
+    margin-top:250px;
+    margin-left:400px;
+    margin-right:auto;
+
+}
+#mainpic2{
+    display: block;
+    margin-top:125px;
+    margin-left:400px;
+    margin-right:auto;
+
+}
+.description1{
+    height:600px;
+    text-align:left;
+    margin-top:300px;
+    display:block;
+    margin-right:auto;
+    margin-left:50px;
+}
+.description2{
+    height:600px;
+    text-align:left;
+    margin-top:200px;
+    display:block;
+    margin-right:auto;
+    margin-left:50px;
+}
+#mainh3{
+    font-size:40px;
+    font-family:Noto Sans TC Black;
+    margin-bottom:32px;
+}
+#mainp{
+    font-size:25px;
+    font-family:Noto Sans TC Light;
+    line-height:20px;
+}
